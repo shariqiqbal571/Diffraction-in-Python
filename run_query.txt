@@ -1,3 +1,6 @@
+pip install numpy matplotlib
+
+
 Single Slit Diffraction Simulation
 
 python single_slit_diffraction.py
