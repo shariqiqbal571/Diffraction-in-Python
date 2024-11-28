@@ -1,0 +1,14 @@
+Single Slit Diffraction Simulation
+
+python single_slit_diffraction.py
+
+
+Double Slit Diffraction Simulation:
+
+python double_slit_diffraction.py
+
+
+Diffraction Grating Simulation
+python diffraction_grating.py
+
+
